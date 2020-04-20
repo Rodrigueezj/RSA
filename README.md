@@ -1,19 +1,6 @@
 
 # Ajedrez
 
-# Integrantes
-
-
-|     Nombre         | Github nickname |
-|--------------------|-----------------|
-|Juan Pablo Duque    |Jpduquees        |
-|Andrés Felipe Medina|amedinae         |
-|Nicole Mora         |kmoraq           |
-|Giovanni Paez       |pagliacci0411    |
-|Juan Diego Plaza    |jplazag          |
-|Juan David Rodriguez|Rodrigueezj      |
-
-
 # Introducción
 
 ## Problemática
