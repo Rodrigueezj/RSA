@@ -1,11 +1,9 @@
 
 # RSA
 
-# Introducción
+## Introducción
 
-## Problemática
-
-En este siglo donde se ha presentado el mayor apogeo tecnológico de la historia conocida, se ha desarrollado una crisis en la juventud, el aburrimiento y el desinterés por el aprendizaje. Gracias a este fenómeno social los jóvenes, en los cuales descansa el futuro de nuestra sociedad, buscan medios nocivos para ocupar sus mentes divagantes y sedientas de entretenimiento, lo cual apunta a un mañana sombrío.
+El RSA es un sistema criptográfico de llave pública desarrollado en el año de 1979 por Rivest, Shamir y Adleman en MIT. Es uno de los algoritmos de este tipo más utilizados. En un sistema de criptografía de llave publica cada usuario posee dos llaves, una pública y otra privada. Cuando se quiere enviar un mensaje, el emisor busca la clave pública del receptor, cifra su mensaje con esa clave, y una vez que el mensaje cifrado llega al receptor, este se ocupa de descifrarlo usando su clave privada. La seguridad del algoritmo se basa en la dificultad de resolver el problema de factorización de números enteros.
 
 
 ## Marco teórico
